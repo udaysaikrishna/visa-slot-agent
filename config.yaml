@@ -27,25 +27,6 @@ locations:
 # Visa families -> tracker page slugs on checkvisaslots.com
 # (https://checkvisaslots.com/latest-us-visa-availability/<slug>/)
 visa_types:
-  L1A:
-    - l-1-blanket-regular
-    - l-1-individual-regular
-  L2:
-    - l-2-blanket-regular
-    - l-2-individual-regular
-  B1:
-    - b1-regular
-  B2:
-    - b2-regular
-  B1/B2:
-    - b1-b2-regular
-    - b1b2-general-regular
-    - b1b2-business-professionals-regular
-    - b1b2-parents-visiting-children-regular
-    - b1-b2-dropbox
-  H1B:
-    - h-1b-regular
-    - h-1b-interview-waiver
   H4:
     - h-4-regular
 
