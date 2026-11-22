@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-22T11:47:34.833690+00:00",
+ "generated_utc": "2026-11-22T18:40:39.602488+00:00",
  "local_timezone": "America/Indiana/Indianapolis",
  "group_size": 1,
  "latest_acceptable_date": "2027-03-31",
@@ -16,8 +16,8 @@
     {
      "ist": "Mon 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-22T18:30:00+00:00",
-     "next_start_local": "Sun 22 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-29T18:30:00+00:00",
+     "next_start_local": "Sun 29 Nov, 01:30 PM EST"
     },
     {
      "ist": "Tue 12 AM\u20132 AM IST",
@@ -33,10 +33,10 @@
     }
    ],
    "next_window": {
-    "ist": "Mon 12 AM\u20132 AM IST",
+    "ist": "Tue 12 AM\u20132 AM IST",
     "share": 4,
-    "next_start_utc": "2026-11-22T18:30:00+00:00",
-    "next_start_local": "Sun 22 Nov, 01:30 PM EST"
+    "next_start_utc": "2026-11-23T18:30:00+00:00",
+    "next_start_local": "Mon 23 Nov, 01:30 PM EST"
    },
    "hour_profile_ist": [
     0.0,
@@ -181,8 +181,8 @@
      {
       "ist": "Mon 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-22T18:30:00+00:00",
-      "next_start_local": "Sun 22 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-29T18:30:00+00:00",
+      "next_start_local": "Sun 29 Nov, 01:30 PM EST"
      },
      {
       "ist": "Tue 12 AM\u20132 AM IST",
@@ -198,10 +198,10 @@
      }
     ],
     "next_window": {
-     "ist": "Mon 12 AM\u20132 AM IST",
+     "ist": "Tue 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-22T18:30:00+00:00",
-     "next_start_local": "Sun 22 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-23T18:30:00+00:00",
+     "next_start_local": "Mon 23 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -343,8 +343,8 @@
      {
       "ist": "Mon 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-22T18:30:00+00:00",
-      "next_start_local": "Sun 22 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-29T18:30:00+00:00",
+      "next_start_local": "Sun 29 Nov, 01:30 PM EST"
      },
      {
       "ist": "Tue 12 AM\u20132 AM IST",
@@ -360,10 +360,10 @@
      }
     ],
     "next_window": {
-     "ist": "Mon 12 AM\u20132 AM IST",
+     "ist": "Tue 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-22T18:30:00+00:00",
-     "next_start_local": "Sun 22 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-23T18:30:00+00:00",
+     "next_start_local": "Mon 23 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -505,8 +505,8 @@
      {
       "ist": "Mon 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-22T18:30:00+00:00",
-      "next_start_local": "Sun 22 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-29T18:30:00+00:00",
+      "next_start_local": "Sun 29 Nov, 01:30 PM EST"
      },
      {
       "ist": "Tue 12 AM\u20132 AM IST",
@@ -522,10 +522,10 @@
      }
     ],
     "next_window": {
-     "ist": "Mon 12 AM\u20132 AM IST",
+     "ist": "Tue 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-22T18:30:00+00:00",
-     "next_start_local": "Sun 22 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-23T18:30:00+00:00",
+     "next_start_local": "Mon 23 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -667,8 +667,8 @@
      {
       "ist": "Mon 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-22T18:30:00+00:00",
-      "next_start_local": "Sun 22 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-29T18:30:00+00:00",
+      "next_start_local": "Sun 29 Nov, 01:30 PM EST"
      },
      {
       "ist": "Tue 12 AM\u20132 AM IST",
@@ -684,10 +684,10 @@
      }
     ],
     "next_window": {
-     "ist": "Mon 12 AM\u20132 AM IST",
+     "ist": "Tue 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-22T18:30:00+00:00",
-     "next_start_local": "Sun 22 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-23T18:30:00+00:00",
+     "next_start_local": "Mon 23 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -829,8 +829,8 @@
      {
       "ist": "Mon 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-22T18:30:00+00:00",
-      "next_start_local": "Sun 22 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-29T18:30:00+00:00",
+      "next_start_local": "Sun 29 Nov, 01:30 PM EST"
      },
      {
       "ist": "Tue 12 AM\u20132 AM IST",
@@ -846,10 +846,10 @@
      }
     ],
     "next_window": {
-     "ist": "Mon 12 AM\u20132 AM IST",
+     "ist": "Tue 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-22T18:30:00+00:00",
-     "next_start_local": "Sun 22 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-23T18:30:00+00:00",
+     "next_start_local": "Mon 23 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -991,8 +991,8 @@
      {
       "ist": "Mon 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-22T18:30:00+00:00",
-      "next_start_local": "Sun 22 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-29T18:30:00+00:00",
+      "next_start_local": "Sun 29 Nov, 01:30 PM EST"
      },
      {
       "ist": "Tue 12 AM\u20132 AM IST",
@@ -1008,10 +1008,10 @@
      }
     ],
     "next_window": {
-     "ist": "Mon 12 AM\u20132 AM IST",
+     "ist": "Tue 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-22T18:30:00+00:00",
-     "next_start_local": "Sun 22 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-23T18:30:00+00:00",
+     "next_start_local": "Mon 23 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -1153,8 +1153,8 @@
      {
       "ist": "Mon 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-22T18:30:00+00:00",
-      "next_start_local": "Sun 22 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-29T18:30:00+00:00",
+      "next_start_local": "Sun 29 Nov, 01:30 PM EST"
      },
      {
       "ist": "Tue 12 AM\u20132 AM IST",
@@ -1170,10 +1170,10 @@
      }
     ],
     "next_window": {
-     "ist": "Mon 12 AM\u20132 AM IST",
+     "ist": "Tue 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-22T18:30:00+00:00",
-     "next_start_local": "Sun 22 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-23T18:30:00+00:00",
+     "next_start_local": "Mon 23 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -1315,8 +1315,8 @@
      {
       "ist": "Mon 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-22T18:30:00+00:00",
-      "next_start_local": "Sun 22 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-29T18:30:00+00:00",
+      "next_start_local": "Sun 29 Nov, 01:30 PM EST"
      },
      {
       "ist": "Tue 12 AM\u20132 AM IST",
@@ -1332,10 +1332,10 @@
      }
     ],
     "next_window": {
-     "ist": "Mon 12 AM\u20132 AM IST",
+     "ist": "Tue 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-22T18:30:00+00:00",
-     "next_start_local": "Sun 22 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-23T18:30:00+00:00",
+     "next_start_local": "Mon 23 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -1477,8 +1477,8 @@
      {
       "ist": "Mon 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-22T18:30:00+00:00",
-      "next_start_local": "Sun 22 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-29T18:30:00+00:00",
+      "next_start_local": "Sun 29 Nov, 01:30 PM EST"
      },
      {
       "ist": "Tue 12 AM\u20132 AM IST",
@@ -1494,10 +1494,10 @@
      }
     ],
     "next_window": {
-     "ist": "Mon 12 AM\u20132 AM IST",
+     "ist": "Tue 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-22T18:30:00+00:00",
-     "next_start_local": "Sun 22 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-23T18:30:00+00:00",
+     "next_start_local": "Mon 23 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
@@ -1639,8 +1639,8 @@
      {
       "ist": "Mon 12 AM\u20132 AM IST",
       "share": 4,
-      "next_start_utc": "2026-11-22T18:30:00+00:00",
-      "next_start_local": "Sun 22 Nov, 01:30 PM EST"
+      "next_start_utc": "2026-11-29T18:30:00+00:00",
+      "next_start_local": "Sun 29 Nov, 01:30 PM EST"
      },
      {
       "ist": "Tue 12 AM\u20132 AM IST",
@@ -1656,10 +1656,10 @@
      }
     ],
     "next_window": {
-     "ist": "Mon 12 AM\u20132 AM IST",
+     "ist": "Tue 12 AM\u20132 AM IST",
      "share": 4,
-     "next_start_utc": "2026-11-22T18:30:00+00:00",
-     "next_start_local": "Sun 22 Nov, 01:30 PM EST"
+     "next_start_utc": "2026-11-23T18:30:00+00:00",
+     "next_start_local": "Mon 23 Nov, 01:30 PM EST"
     },
     "hour_profile_ist": [
      0.0,
